@@ -1,5 +1,15 @@
 # 💫 About Me:
-## 👋 Minh Toàn<br><br>**Data Engineer**<br><br>👀 I'm interested in data engineering, system design, and analytics.  <br>🌱 I'm currently learning data pipelines, streaming systems, and backend technologies.  <br>🤝 I'm open to collaborating on data-related and learning-based projects.  <br>📫 You can reach me on [GitHub](https://github.com/ToanIT0104) or [LinkedIn](https://www.linkedin.com).  <br><br>As a motivated learner, I enjoy building real projects to deepen my understanding of data systems. I aim to continuously improve my technical skills and grow into a strong Data Engineer in the future.<br>
+## 👋 **Minh Toàn**
+
+Data Engineer
+
+👀 I'm interested in data engineering, system design, and analytics.  
+🌱 I'm currently learning data pipelines, streaming systems, and backend technologies.  
+🤝 I'm open to collaborating on data-related and learning-based projects.  
+📫 You can reach me on [GitHub](https://github.com/ToanIT0104) or [LinkedIn](https://www.linkedin.com).
+
+As a motivated learner, I enjoy building real projects to deepen my understanding of data systems. I aim to continuously improve my technical skills and grow into a strong Data Engineer in the future.
+
 
 
 ## 🌐 Socials:
